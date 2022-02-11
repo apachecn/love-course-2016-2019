@@ -4,7 +4,7 @@
 > 
 > 那一年我们望着星空，未来的未来从没想过。当故事失去美梦，美梦失去线索，而我们失去联络。——五月天《星空》
 
-* [在线阅读](https://lovwiki.apachecn.org)
+* [在线阅读](https://mww.apachecn.org)
 * [在线阅读（Gitee）](https://apachecn.gitee.io/doc-template/)
 * [ApacheCN 学习资源](http://docs.apachecn.org/)
 
