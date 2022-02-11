@@ -1,4 +1,4 @@
-# 两性情感知识库
+# 男性觉醒知识库
 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
@@ -18,11 +18,11 @@
 
 ### 负责人
 
-* [片刻](https://github.com/jiangzhonglian): 529815144
+* [飞龙](https://github.com/jiangzhonglian): 562826179
 
 ### 其他
 
-*   在我们的 [apachecn/loving-wiki](https://github.com/apachecn/loving-wiki) github 上提 issue.
+*   在我们的 [apachecn/male-wakeup-wiki](https://github.com/apachecn/male-wakeup-wiki) github 上提 issue.
 *   发邮件到 Email: `apachecn@163.com`.
 *   在我们的 [组织学习交流群](http://www.apachecn.org/organization/348.html) 中联系群主/管理员即可.
 
@@ -31,24 +31,24 @@
 ### Docker
 
 ```
-docker pull apachecn0/loving-wiki
-docker run -tid -p <port>:80 apachecn0/loving-wiki
+docker pull apachecn0/male-wakeup-wiki
+docker run -tid -p <port>:80 apachecn0/male-wakeup-wiki
 # 访问 http://localhost:{port} 查看文档
 ```
 
 ### PYPI
 
 ```
-pip install loving-wiki
-loving-wiki <port>
+pip install male-wakeup-wiki
+male-wakeup-wiki <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
 ### NPM
 
 ```
-npm install -g loving-wiki
-loving-wiki <port>
+npm install -g male-wakeup-wiki
+male-wakeup-wiki <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
