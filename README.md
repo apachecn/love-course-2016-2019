@@ -2,7 +2,7 @@
 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
-> 那一年我们望着星空，未来的未来从没想过。当故事失去美梦，美梦失去线索，而我们失去联络。——五月天《星空》
+> 感谢丁鹏学长在男性觉醒和解放方面做出的突出贡献。——飞龙
 
 * [在线阅读](https://mww.apachecn.org)
 * [在线阅读（Gitee）](https://apachecn.gitee.io/doc-template/)
