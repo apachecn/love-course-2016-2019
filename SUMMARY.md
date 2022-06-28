@@ -219,6 +219,7 @@
     +   [不信教的儒生是如何说明道德的](docs/cheng-shi-lie-ren/218.md)
     +   [为什么儒生比佛教徒、基督徒要少？](docs/cheng-shi-lie-ren/219.md)
     +   [大众的心理安慰游戏——举头三尺有神明](docs/cheng-shi-lie-ren/220.md)
-+   [剧本杀撩妹秘籍](docs/ju-ben-sha/README.md)
++   浪迹
+    +   [剧本杀撩妹秘籍](docs/lang-ji/ju-ben-sha.md)
 +   两性情感秘籍
     +   [NPM、PYPI、DockerHub 备份](docs/loving-books/dockerhub.md)
