@@ -360,3 +360,4 @@
     +   [我在越南会安住进了1000万的豪宅（附东南亚租房子攻略）](docs/piao-han-sheng-huo/2020-45.md)
 +   两性情感秘籍
     +   [（一）NPM、PYPI、DockerHub 备份](docs/loving-books/loving-books-part1-dockerhub.md)
+    +   [（二）NPM、PYPI、DockerHub 备份](docs/loving-books/loving-books-part2-dockerhub.md)
