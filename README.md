@@ -4,7 +4,7 @@
 > 
 > 感谢丁鹏学长在男性觉醒和解放方面做出的突出贡献。——飞龙
 
-* [在线阅读](https://mww.apachecn.org)
+* [在线阅读](https://mww.flygon.net)
 * [在线阅读（Gitee）](https://apachecn.gitee.io/doc-template/)
 * [ApacheCN 学习资源](http://docs.apachecn.org/)
 
