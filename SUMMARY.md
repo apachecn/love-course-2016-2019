@@ -372,3 +372,7 @@
     +   [第八节：解决症状反复的方法，让症状一去不复返](docs/shejiao-kongju-bixiuke/8.md)
     +   [直播课：如何训练察觉社恐症状的能力？](docs/shejiao-kongju-bixiuke/a.md)
     +   [直播课：森田疗法核心理论详解](docs/shejiao-kongju-bixiuke/b.md)
++   杂项
+    +   [把妹四大基本功，学会一项泡妞就像喝水一样](docs/misc/bamei-sida-jibengong.md)
+    +   [神经语言学（NLP）十二条前提](docs/misc/mnlp-12-preq.md)
+    +   [追女生要学会制造错觉，很多男生就是这样快速地追到女生的播报文章](docs/misc/zhidao-cuojue.md)
