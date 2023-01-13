@@ -1,4 +1,4 @@
-# 11、chris《曼森方法》（完结）：曼森方法：实操篇06：升高模型（下）
+# chris《曼森方法》（完结）：曼森方法：实操篇06：升高模型（下）
 
 You can choose Karl's group，Yeah， Click here， Click here， Click here， Did you like it？， Click here。
 
