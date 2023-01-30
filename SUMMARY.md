@@ -9,7 +9,7 @@
 +   [安小妖](docs/an-xiao-yao/README.md)
 +   [闪恋会](docs/shan-lian-hui/README.md)
 +   [乐鱼情感](docs/le-yu-qing-gan/README.md)
-+   [路易团队](docs/ly-yi-tuan-dui/README.md)
++   [路易团队](docs/lu-yi-tuan-dui/README.md)
 +   [蜜果情感](docs/mi-guo-qing-gan/README.md)
 +   [摩卡系列](docs/mo-ka-xi-lie/README.md)
 +   [杂项](docs/misc/README.md)
