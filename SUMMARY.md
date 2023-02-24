@@ -1,4 +1,3 @@
-+   [社交恐惧必修课笔记](docs/shejiao-kongju-bixiuke/README.md)
 +   [乌鸦救赎](docs/wu-ya-jiu-shu/README.md)
 +   [Chris](docs/chris/README.md)
 +   [爱上情感](docs/ai-shang-qing-gan/README.md)
