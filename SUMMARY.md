@@ -1,4 +1,3 @@
-+   [城市猎人知乎文章 20210926](docs/cheng-shi-lie-ren/README.md)
 +   [社交恐惧必修课笔记](docs/shejiao-kongju-bixiuke/README.md)
 +   [乌鸦救赎](docs/wu-ya-jiu-shu/README.md)
 +   [Chris](docs/chris/README.md)
