@@ -1,10 +1,10 @@
-# 男性觉醒知识库
+# 两性情感课程笔记 2016-2019
 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
 > 承认吧，我们是弱者，正因为生来什么都没有，因此我们能拥有一切，以身为弱者而骄傲吧！——《游戏人生》
 
-* [在线阅读](https://mww.flygon.net)
+* [在线阅读](https://lvcs1619.apachecn.org)
 * [在线阅读（Gitee）](https://apachecn.gitee.io/doc-template/)
 * [ApacheCN 学习资源](http://docs.apachecn.org/)
 
@@ -42,7 +42,7 @@
 
 ### 其他
 
-*   在我们的 [apachecn/male-wakeup-wiki](https://github.com/apachecn/male-wakeup-wiki) github 上提 issue.
+*   在我们的 [apachecn/love-course-2016-2019](https://github.com/apachecn/love-course-2016-2019) github 上提 issue.
 *   发邮件到 Email: `apachecn@163.com`.
 *   在我们的 [组织学习交流群](http://www.apachecn.org/organization/348.html) 中联系群主/管理员即可.
 
@@ -51,24 +51,24 @@
 ### Docker
 
 ```
-docker pull apachecn0/male-wakeup-wiki
-docker run -tid -p <port>:80 apachecn0/male-wakeup-wiki
+docker pull apachecn0/love-course-2016-2019
+docker run -tid -p <port>:80 apachecn0/love-course-2016-2019
 # 访问 http://localhost:{port} 查看文档
 ```
 
 ### PYPI
 
 ```
-pip install male-wakeup-wiki
-male-wakeup-wiki <port>
+pip install love-course-2016-2019
+love-course-2016-2019 <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
 ### NPM
 
 ```
-npm install -g male-wakeup-wiki
-male-wakeup-wiki <port>
+npm install -g love-course-2016-2019
+love-course-2016-2019 <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
