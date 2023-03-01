@@ -8,4 +8,6 @@
 +   [蜜果情感](docs/mi-guo-qing-gan/README.md)
 +   [摩卡系列](docs/mo-ka-xi-lie/README.md)
 +   [萱萱情感](docs/xuan-xuan/README.md)
++   [靓男系列](docs/liang-nan/README.md)
++   [蓝色答案](docs/lan-se-da-an/README.md)
 +   [杂项](docs/misc/README.md)
