@@ -10,4 +10,5 @@
 +   [萱萱情感](docs/xuan-xuan/README.md)
 +   [靓男系列](docs/liang-nan/README.md)
 +   [蓝色答案](docs/lan-se-da-an/README.md)
++   [男哥情感](docs/nan-ge/README.md)
 +   [杂项](docs/misc/README.md)
