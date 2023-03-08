@@ -13,4 +13,5 @@
 +   [男哥情感](docs/nan-ge/README.md)
 +   [小鲸恋爱班](docs/xiao-jing-lian-ai-ban/README.md)
 +   [泰阳情感](docs/tai-yang-qing-gan/README.md)
++   [摸鱼情感](docs/mo-yu-qing-gan/README.md)
 +   [杂项](docs/misc/README.md)
