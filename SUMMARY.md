@@ -15,4 +15,5 @@
 +   [泰阳情感](docs/tai-yang-qing-gan/README.md)
 +   [摸鱼情感](docs/mo-yu-qing-gan/README.md)
 +   [倪情感](docs/ni-qing-gan/README.md)
++   [梵尘系列](docs/fan-chen/README.md)
 +   [杂项](docs/misc/README.md)
