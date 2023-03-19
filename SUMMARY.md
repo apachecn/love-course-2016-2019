@@ -16,4 +16,5 @@
 +   [摸鱼情感](docs/mo-yu-qing-gan/README.md)
 +   [倪情感](docs/ni-qing-gan/README.md)
 +   [梵尘系列](docs/fan-chen/README.md)
++   [七分学堂](docs/qi-fen-xue-tang/README.md)
 +   [杂项](docs/misc/README.md)
